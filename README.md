@@ -166,7 +166,7 @@ O script `notebooks/ingestao_bitcoin.py` implementa o fluxo de ingest√£o do pre√
 
 **Engenheiro de Dados:** Alexsander Valente
 **GitHub:** [https://github.com/alevtelles](https://github.com/alevtelles)
-**LinkedIn:** [https://linkedin.com/in/alexsandervalente](https://linkedin.com/in/alexsandervalente)
+**LinkedIn:** [https://linkedin.com/in/alexsandervalente](https://www.linkedin.com/in/alexsander-valente/)
 
 
 
